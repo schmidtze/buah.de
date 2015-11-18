@@ -1,0 +1,242 @@
+<!--A Design by W3layouts 
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kappe a Personal Portfolio Category Flat Bootstarp Responsive Website Template | Home :: w3layouts</title>
+<!-- jQuery-->
+<script src="js/jquery.min.js"></script>
+<!-- Custom Theme files -->
+<!--theme-style-->
+<link href="resources/css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<!--//theme-style-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Kappe Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--fonts-->
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
+<!--//fonts-->
+
+</head>
+<body>
+	
+			
+			
+		</div>
+		<!---->
+		<!---->
+		<div class="header-top">
+			<div class="logo-in">
+				<a href="index.html"><img src="resources/images/logo.png" alt=""></a>
+			</div>
+			<br/>
+			<div class="clear"> </div>
+		</div>
+			<!---->
+		<div class="content">
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Nährwerte ...</span>
+								<p>zu den Kategorien</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi1.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi2.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi3.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi4.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi5.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi6.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi7.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi8.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid grid9">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi9.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi3.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi6.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi2.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi5.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="content-grid">
+				<a href="single.html" class="b-link-stripe b-animate-go  thickbox">
+					<img  src="resources/images/pi9.jpg" />
+						<div class="b-wrapper">
+							<h2 class="b-animate b-from-left    b-delay03 ">
+								<span>Cool App Design</span>
+								<p>development, mobile</p>
+								<i> </i>
+							</h2>
+						</div>
+				</a>
+			</div>
+			<div class="clear"> </div>
+			
+		</div>
+		<div class="clear"> </div>
+		
+	</div>
+</body>
+</html>
